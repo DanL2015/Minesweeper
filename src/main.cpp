@@ -76,6 +76,7 @@ void input()
     {
         cout << "Not a valid response." << endl;
         cin >> saveRes;
+        tolower(saveRes);
     }
 
     if (saveRes == 'y')
