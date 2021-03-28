@@ -2,4 +2,4 @@
 Just for fun.
 Minesweeper using SFML C++
 Too bored to implement a scoreboard.
-Made most of this at 12 A.M. which really shows. But it works. ¯\\__(ツ)__/¯ 
+Made most of this at 12 A.M. which really shows. But it works. ¯\\___(ツ)___/¯ 
